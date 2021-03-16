@@ -8,7 +8,7 @@
     <title>Yamaha</title>
 </head>
 <body style="background-color:  rgb(13, 245, 226);">
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
             <div class="container-fluid">
