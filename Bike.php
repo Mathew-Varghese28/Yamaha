@@ -81,7 +81,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Yamaha RX100</h5>
                               <p class="card-text">Price Rs.45,982</p>
-                              <a href="booking.html" class="btn btn-primary">Order Now</a>
+                              <a href="booking.php" class="btn btn-primary">Order Now</a>
                             </div>
                           </div>
                           </td>
@@ -90,7 +90,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Yamaha Fascino </h5>
                               <p class="card-text">Price Rs.50,000 </p>
-                              <a href="booking.html" class="btn btn-primary">Order Now</a>
+                              <a href="booking.php" class="btn btn-primary">Order Now</a>
                             </div>
                           </div></td>
                        
@@ -99,7 +99,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Yamaha Fzs Fi 150cc</h5>
                               <p class="card-text">Price Rs.50,000</p>
-                              <a href="booking.html" class="btn btn-primary">Order Now</a>
+                              <a href="booking.php" class="btn btn-primary">Order Now</a>
                             </div>
                           </div></td>
                         </tr>
@@ -111,7 +111,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Yamaha Fazer-FI</h5>
                                   <p class="card-text">Price  ₹89,643.00</p>
-                                  <a href="booking.html" class="btn btn-primary">Order Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Order Now</a>
                                 </div>
                               </div>
                         </td>
@@ -121,7 +121,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Yamaha FZ1</h5>
                                   <p class="card-text">Price  ₹70,000.00</p>
-                                  <a href="booking.html" class="btn btn-primary">Order Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Order Now</a>
                                 </div>
                               </div>
                         </td>
@@ -131,7 +131,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Yamaha MT-15</h5>
                                   <p class="card-text">Price Rs 1.64 Lakh</p>
-                                  <a href="booking.html" class="btn btn-primary">Order Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Order Now</a>
                                 </div>
                               </div>
                         </td>

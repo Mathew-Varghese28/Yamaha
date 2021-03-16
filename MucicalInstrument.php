@@ -80,7 +80,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Yamaha DTXM12 Multi Pad</h5>
                               <p class="card-text">Price Rs.45,500</p>
-                              <a href="booking.html" class="btn btn-primary">Order Now</a>
+                              <a href="booking.php" class="btn btn-primary">Order Now</a>
                             </div>
                           </div>
                           </td>
@@ -89,7 +89,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Yamaha PSR-I400 61-Key Portable Keyboard, </h5>
                               <p class="card-text">Price ₹ 16,349.00 </p>
-                              <a href="booking.html" class="btn btn-primary">Order Now</a>
+                              <a href="booking.php" class="btn btn-primary">Order Now</a>
                             </div>
                           </div></td>
                        
@@ -98,7 +98,7 @@
                             <div class="card-body">
                               <h5 class="card-title">Yamaha F280 Acoustic Guitar, Natural</h5>
                               <p class="card-text">Price ₹ 6,990.00</p>
-                              <a href="booking.html" class="btn btn-primary">Order Now</a>
+                              <a href="booking.php" class="btn btn-primary">Order Now</a>
                             </div>
                           </div></td>
                         </tr>
@@ -110,7 +110,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Yamaha MG12XU 12-Input Stereo Mixer</h5>
                                   <p class="card-text">Price  ₹89,643.00</p>
-                                  <a href="booking.html" class="btn btn-primary">Order Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Order Now</a>
                                 </div>
                               </div>
                         </td>
@@ -120,7 +120,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Yamaha HS5 PAIR 5-inch Powered Studio Monitor Pair</h5>
                                   <p class="card-text">Price  ₹ 28,900.00</p>
-                                  <a href="booking.html" class="btn btn-primary">Order Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Order Now</a>
                                 </div>
                               </div>
                         </td>
@@ -130,7 +130,7 @@
                                 <div class="card-body">
                                   <h5 class="card-title">Drums - Electronic Drums Yamaha Corporation Musical Instruments PNG</h5>
                                   <p class="card-text">Price ₹ 70,900.00</p>
-                                  <a href="booking.html" class="btn btn-primary">Order Now</a>
+                                  <a href="booking.php" class="btn btn-primary">Order Now</a>
                                 </div>
                               </div>
                         </td>
