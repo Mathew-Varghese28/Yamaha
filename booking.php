@@ -106,7 +106,7 @@
             <div class="col col-12 col-sm-4 col-md-4">
                <center> <img src="https://i.pinimg.com/564x/37/aa/87/37aa8725510aac487fa585278f1a884b.jpg" alt=""></center>
                <center> <address style="font-family: Georgia, 'Times New Roman', Times, serif;">
-                    <strong>SaSu Cochin</strong><br>
+                    <strong>Yamaha Cochin</strong><br>
                     Phone Number : +91- 0477 - 2242935<br>
                     Cochin <br>
                     Aluva-Kalamasery Road<br>
