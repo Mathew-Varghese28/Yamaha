@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Yamaha</title>
 </head>
-<body style="background-color:  rgb(13, 245, 226);">
+<body style="background-color: white">
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
